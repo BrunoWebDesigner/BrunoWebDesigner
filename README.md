@@ -4,7 +4,7 @@ Hello 👋, My name is Bruno
 I am a Front End developer.
 --------------------------
 
-*   🌍  I'm based in Tallin, Estonia
+*   🌍  I'm based in Tallinn, Estonia
 *   🖥️  See more about me at <a target="_blank" rel="noreferrer" href='https://www.linkedin.com/in/brunoux-peres/'>My Linkedin</a>
 *   🧠  Currently learning tailwindcss
 *   🤝  I'm open to collaborating on interesting projects as a developer
