@@ -18,8 +18,10 @@ I am a Front End developer.
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> &nbsp;
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> &nbsp;
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a> &nbsp;
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" width="36" height="36" alt="React" /></a> &nbsp;
- 
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" width="36" height="36" alt="Photoshop" /></a> &nbsp;
+<a href="https://www.figma.com/blog/figma-on-figma-how-we-built-figma-dot-coms-design-system/" target="_blank" rel="noreferrer"><img src="https://commons.wikimedia.org/wiki/File:Figma-logo.svg" width="36" height="36" alt="Figma" /></a> &nbsp;
+<a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://commons.wikimedia.org/wiki/File:Adobe_Premiere_Pro_CC_icon.svg" width="36" height="36" alt="Premiere" /></a> &nbsp;
+
   
 ### Socials
 
