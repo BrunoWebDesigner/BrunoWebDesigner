@@ -20,7 +20,7 @@ I am a QA Engineer and Front End developer.
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a> &nbsp;
 <a href="https://www.postman.com/company/about-postman/" target="_blank" rel="noreferrer"><img src="https://images.icon-icons.com/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" width="36" height="36" alt="Photoshop" /></a> &nbsp;
 <a href="https://www.figma.com/blog/figma-on-figma-how-we-built-figma-dot-coms-design-system/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="36" height="36" alt="Figma" /></a> &nbsp;
-<a href="https://www.cypress.io/" target="_blank" rel="noreferrer"><img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/cypress-icon-moigrz5nimpd7rsob0bisu.png/cypress-icon-pg9bdlubveoefqouilbg.png?_a=DATAdtAAZAA0" width="36" height="36" alt="Cypress" /></a> &nbsp;
+<a href="https://www.cypress.io/" target="_blank" rel="noreferrer"><img src="https://cdn.sanity.io/images/o0o2tn5x/production/13b9c8412093e2f0cdb5495e1f59144967fa1664-512x512.jpg" width="36" height="36" alt="Cypress" /></a> &nbsp;
 
   
 ### Socials
