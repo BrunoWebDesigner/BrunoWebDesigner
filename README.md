@@ -3,13 +3,13 @@ Hello 👋, My name is Bruno
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDM2Nzk3MDY1NGFhYTNjNjY5ZWUxNTVkZjAyMWY1ODRiNWNlNDc0MyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/lrDAgsYq0eomhwoESZ/giphy.gif" width="480" alt="Konosuba Dance" />
 <a href="https://giphy.com/" target="_blank" rel="noreferrer">Source</a>
 
-I am a Front End developer.
+I am a QA Engineer and Front End developer.
 --------------------------
 
 *   🌍  I'm based in Tallinn, Estonia
 *   🖥️  See more about me at <a target="_blank" rel="noreferrer" href='https://www.linkedin.com/in/brunoux-peres/'>My Linkedin</a>
-*   🧠  Currently learning tailwindcss
-*   🤝  I'm open to collaborating on interesting projects as a developer
+*   🧠  Currently studying Cypress - test automation
+*   🤝  I'm open to collaborating on interesting projects as a QA
 
 ### Skills
 
