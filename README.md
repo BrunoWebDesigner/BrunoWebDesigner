@@ -8,8 +8,8 @@ I am a QA Engineer.
 
 *   🌍  I'm based in Tallinn, Estonia
 *   🖥️  See more about me at <a target="_blank" rel="noreferrer" href='https://www.linkedin.com/in/brunoux-peres/'>My Linkedin</a>
-*   🧠  Currently studying Cypress - test automation
-*   🤝  I'm open to collaborating on interesting projects as a QA
+*   🧠  Currently studying Cypress/Playwright/Appium - test automation
+*   🤝  I'm open to collaborating on interesting projects as a QA Engineer
 
 ### Skills
 
