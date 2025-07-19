@@ -21,6 +21,8 @@ I am a QA Engineer.
 <a href="https://www.postman.com/company/about-postman/" target="_blank" rel="noreferrer"><img src="https://images.icon-icons.com/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" width="36" height="36" alt="Photoshop" /></a> &nbsp;
 <a href="https://www.figma.com/blog/figma-on-figma-how-we-built-figma-dot-coms-design-system/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="36" height="36" alt="Figma" /></a> &nbsp;
 <a href="https://www.cypress.io/" target="_blank" rel="noreferrer"><img src="https://cdn.sanity.io/images/o0o2tn5x/production/13b9c8412093e2f0cdb5495e1f59144967fa1664-512x512.jpg" width="36" height="36" alt="Cypress" /></a> &nbsp;
+<a href="https://playwright.dev/" target="_blank" rel="noreferrer"><img src="https://playwright.dev/img/playwright-logo.svg" width="36" height="36" alt="Playwright" /></a> &nbsp;
+<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="36" height="36" alt="Jira" /></a> &nbsp;
 
   
 ### Socials
